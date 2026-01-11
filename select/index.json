@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Spread the Wings!! -25 colors-",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-01-11T08:50:13.983356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (2023 Version)",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/01_Spread_the_Wings!!_(2023_Version)_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spread the Wings!! -25 colors-",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/02_Spread_the_Wings!!_-25_colors-_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spread The Wings",
+      "artist": "PSYCHIC FEVER from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/03_Spread_The_Wings_PSYCHIC_FEVER_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spread the Wings!! -25 colors-",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/04_Spread_the_Wings!!_-25_colors-_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spread the Wings!!",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/05_Spread_the_Wings!!_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (アルストロメリア Ver.)",
+      "artist": "283PRO",
+      "has_synced": true,
+      "path": "select/06_Spread_the_Wings!!_(アルストロメリア_Ver.)_283PRO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (放課後クライマックスガールズ Ver.)",
+      "artist": "283PRO",
+      "has_synced": false,
+      "path": "select/07_Spread_the_Wings!!_(放課後クライマックスガールズ_Ver.)_283PRO.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (イルミネーションスターズ Ver.)",
+      "artist": "283PRO",
+      "has_synced": true,
+      "path": "select/08_Spread_the_Wings!!_(イルミネーションスターズ_Ver.)_283PRO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spread the Wings!! - 2023 Version",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/09_Spread_the_Wings!!_-_2023_Version_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (Off Vocal)",
+      "artist": "SHINY COLORS",
+      "has_synced": true,
+      "path": "select/10_Spread_the_Wings!!_(Off_Vocal)_SHINY_COLORS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You, Spread the wings of Victory",
+      "artist": "AOA",
+      "has_synced": true,
+      "path": "select/11_You,_Spread_the_wings_of_Victory_AOA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (アンティーカ Ver.)",
+      "artist": "アンティーカ",
+      "has_synced": true,
+      "path": "select/12_Spread_the_Wings!!_(アンティーカ_Ver.)_アンティーカ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spread the Wings!!",
+      "artist": "765PRO ALLSTARS & シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/13_Spread_the_Wings!!_765PRO_ALLSTARS_&_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (イルミネーションスターズ Ver.)",
+      "artist": "イルミネーションスターズ",
+      "has_synced": true,
+      "path": "select/14_Spread_the_Wings!!_(イルミネーションスターズ_Ver.)_イルミネーションスターズ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (アルストロメリア Ver.)",
+      "artist": "アルストロメリア",
+      "has_synced": true,
+      "path": "select/15_Spread_the_Wings!!_(アルストロメリア_Ver.)_アルストロメリア.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spread the Wings!! (放課後クライマックスガールズ Ver.)",
+      "artist": "放課後クライマックスガールズ",
+      "has_synced": false,
+      "path": "select/16_Spread_the_Wings!!_(放課後クライマックスガールズ_Ver.)_放課後クライマックスガールズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spread the Wings!!",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Spread_the_Wings!!_シャイニーカラーズ.txt"
+    }
+  ]
+}
